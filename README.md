@@ -46,4 +46,4 @@ I'm passionate about leveraging cloud technologies to build scalable, efficient,
 ## 📬 Contact Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/augustine-boadu)  
 - 🌐 [Portfolio Website](#)  
-- 📧 Email: [Your Email](boadu.august@gmail.com)  
+- 📧 Email: [Your Email](mailto:boadu.august@gmail.com)  
